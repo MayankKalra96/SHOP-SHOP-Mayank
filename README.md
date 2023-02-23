@@ -30,6 +30,6 @@ Drive: https://drive.google.com/file/d/1UupSxpTHubj1RQKElfsmHa_0-YmiZAyK/view?us
 
 ## Website
 
-heroku app: 
+heroku app: https://dashboard.heroku.com/apps/shop-shop-mayank
 
-github repo:
+github repo: https://github.com/MayankKalra96/SHOP-SHOP-Mayank
